@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="2100px" viewBox="0 0 2560 2100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 34</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-22.4049503%" y1="50%" x2="92.9731748%" y2="77.7581451%" id="linearGradient-1">
+            <stop stop-color="#48C7FF" stop-opacity="0.05" offset="0%"></stop>
+            <stop stop-color="#0E71B9" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001-Fone-Dynamics-Homepage---@2560" transform="translate(0.000000, -1265.000000)" fill="url(#linearGradient-1)">
+            <polygon id="Rectangle-34" points="2560 1265 2560 2315 -2.27373675e-13 3365 -1.00974196e-28 2315"></polygon>
+        </g>
+    </g>
+</svg>

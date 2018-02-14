@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="130" viewBox="0 0 128 130">
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(0 0)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="#77C9FD" xlink:href="#b"/>
+        </g>
+        <path fill="#1385CD" fill-rule="nonzero" d="M54 42.929a1.5 1.5 0 0 1 0-3h19.506a1.5 1.5 0 0 1 0 3H54zm0 6.19a1.5 1.5 0 0 1 0-3h4.528a1.5 1.5 0 0 1 0 3H54zm10 0a1.5 1.5 0 0 1 0-3h4.523a1.5 1.5 0 0 1 0 3H64zm-10 5.714a1.5 1.5 0 1 1 0-3h8.515a1.5 1.5 0 0 1 0 3H54zm14 0a1.5 1.5 0 1 1 0-3h3.528a1.5 1.5 0 0 1 0 3H68zm-14 5.715a1.5 1.5 0 1 1 0-3h6.52a1.5 1.5 0 0 1 0 3H54zm12 0a1.5 1.5 0 1 1 0-3h5.52a1.5 1.5 0 0 1 0 3H66z"/>
+    </g>
+</svg>

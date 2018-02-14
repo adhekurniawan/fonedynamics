@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="475" viewBox="0 0 2560 475">
+    <defs>
+        <linearGradient id="b" x1="0%" x2="102%" y1="0%" y2="101%">
+            <stop offset="0%" stop-color="#3023AE"/>
+            <stop offset="100%" stop-color="#C86DD7"/>
+        </linearGradient>
+        <path id="a" d="M0 0h2560v475H0z"/>
+        <linearGradient id="d" x1="50%" x2="50%" y1="71.921%" y2="0%">
+            <stop offset="0%" stop-color="#0664D9" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#27E3FF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <use fill="url(#b)" xlink:href="#a"/>
+        <g fill="url(#d)" mask="url(#c)" opacity=".3" style="mix-blend-mode:multiply">
+            <path d="M748.724 22.506c47.897 27.654 64.308 88.9 36.655 136.797L543.872 577.604c-27.653 47.898-88.9 64.308-136.797 36.655-47.897-27.654-64.308-88.9-36.654-136.797L611.927 59.161c27.654-47.898 88.9-64.308 136.797-36.655z" opacity=".3" style="mix-blend-mode:multiply"/>
+            <path d="M1174.102-324.145c94.003 54.273 126.21 174.473 71.938 268.476L772.063 765.283c-54.272 94.002-174.473 126.21-268.475 71.937-94.002-54.272-126.21-174.472-71.938-268.475l473.977-820.952c54.273-94.002 174.473-126.21 268.475-71.938z" opacity=".3" style="mix-blend-mode:multiply"/>
+            <path d="M718.662-599.539c88.363 51.017 118.64 164.007 67.622 252.37L340.74 424.539c-51.017 88.364-164.007 118.64-252.37 67.623C.005 441.144-30.271 328.154 20.746 239.79l445.545-771.707c51.017-88.364 164.007-118.64 252.37-67.623z" opacity=".4" style="mix-blend-mode:multiply"/>
+            <path d="M1023.203 342.957c-73.052-42.177-98.082-135.588-55.905-208.64l368.341-637.986c42.177-73.053 135.588-98.082 208.64-55.905 73.052 42.176 98.082 135.588 55.905 208.64l-368.341 637.986c-42.177 73.052-135.588 98.081-208.64 55.905z" opacity=".3" style="mix-blend-mode:multiply"/>
+        </g>
+    </g>
+</svg>

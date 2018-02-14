@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="475px" viewBox="0 0 2560 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>bg_Trusted_Partners</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="12.6310221%" y1="74.7635691%" x2="86.3411458%" y2="27.3293586%" id="linearGradient-1">
+            <stop stop-color="#FC637E" offset="0%"></stop>
+            <stop stop-color="#FFA25E" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="2560" height="475"></rect>
+        <linearGradient x1="50%" y1="71.9205234%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#0664D9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#27E3FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="003-Call-Routing-and-Managements-@2560" transform="translate(0.000000, -3860.000000)">
+            <g id="Group-75" transform="translate(0.000000, 3860.000000)">
+                <g id="bg_Trusted_Partners">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Rectangle-25-Copy" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <g id="Group-6" opacity="0.25" style="mix-blend-mode: screen;" mask="url(#mask-3)" fill="url(#linearGradient-4)">
+                        <g transform="translate(826.405858, -0.087354) rotate(-300.000000) translate(-826.405858, 0.087354) translate(92.405858, -978.587354)">
+                            <path d="M885.549978,1011.29884 C940.856969,1011.29884 985.692143,1056.13402 985.692143,1111.44101 L985.692143,1594.45395 C985.692143,1649.76094 940.856969,1694.59612 885.549978,1694.59612 C830.242987,1694.59612 785.407812,1649.76094 785.407812,1594.45395 L785.407812,1111.44101 C785.407812,1056.13402 830.242987,1011.29884 885.549978,1011.29884 Z" id="Rectangle-4" opacity="0.300000012" style="mix-blend-mode: multiply;" transform="translate(885.549978, 1352.947481) rotate(-30.000000) translate(-885.549978, -1352.947481) "></path>
+                            <path d="M962.463616,425.52542 C1071.00826,425.52542 1159.00109,513.518243 1159.00109,622.06289 L1159.00109,1570.01665 C1159.00109,1678.56129 1071.00826,1766.55412 962.463616,1766.55412 C853.918968,1766.55412 765.926146,1678.56129 765.926146,1570.01665 L765.926146,622.06289 C765.926146,513.518243 853.918968,425.52542 962.463616,425.52542 Z" id="Rectangle-4-Copy" opacity="0.300000012" style="mix-blend-mode: multiply;" transform="translate(962.463616, 1096.039768) rotate(-30.000000) translate(-962.463616, -1096.039768) "></path>
+                            <path d="M476.134255,687.640007 C578.167799,687.640007 660.88233,770.354538 660.88233,872.388082 L660.88233,1763.47837 C660.88233,1865.51192 578.167799,1948.22645 476.134255,1948.22645 C374.100711,1948.22645 291.38618,1865.51192 291.38618,1763.47837 L291.38618,872.388082 C291.38618,770.354538 374.100711,687.640007 476.134255,687.640007 Z" id="Rectangle-4-Copy-3" opacity="0.400000006" style="mix-blend-mode: multiply;" transform="translate(476.134255, 1317.933227) rotate(-30.000000) translate(-476.134255, -1317.933227) "></path>
+                            <path d="M868.944994,7.24885334 C953.298253,7.24885334 1021.68008,75.6306807 1021.68008,159.98394 L1021.68008,896.666864 C1021.68008,981.020123 953.298253,1049.40195 868.944994,1049.40195 C784.591735,1049.40195 716.209908,981.020123 716.209908,896.666864 L716.209908,159.98394 C716.209908,75.6306807 784.591735,7.24885334 868.944994,7.24885334 Z" id="Rectangle-4-Copy-2" opacity="0.300000012" style="mix-blend-mode: multiply;" transform="translate(868.944994, 528.325402) rotate(-210.000000) translate(-868.944994, -528.325402) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

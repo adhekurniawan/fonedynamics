@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="952" height="403" viewBox="0 0 952 403">
+    <defs>
+        <path id="a" d="M0 0h1062v523.616L0 479.727z"/>
+        <filter id="b" width="128.7%" height="127%" x="-14.4%" y="-14%" filterUnits="objectBoundingBox">
+            <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <linearGradient id="e" x1="24.585%" x2="91.404%" y1="5.089%" y2="94.768%">
+            <stop offset="0%" stop-color="#48C7FF"/>
+            <stop offset="100%" stop-color="#013CD4"/>
+        </linearGradient>
+        <ellipse id="d" cx="300" cy="298.5" rx="300" ry="298.5"/>
+        <linearGradient id="f" x1="24.585%" x2="114.614%" y1="5.089%" y2="120.126%">
+            <stop offset="0%" stop-color="#48C7FF"/>
+            <stop offset="100%" stop-color="#013CD4"/>
+        </linearGradient>
+        <linearGradient id="h" x1="24.585%" x2="199.347%" y1="5.089%" y2="207.739%">
+            <stop offset="0%" stop-color="#48C7FF"/>
+            <stop offset="100%" stop-color="#013CD4"/>
+        </linearGradient>
+        <linearGradient id="i" x1="50%" x2="69.562%" y1="12.697%" y2="81.056%">
+            <stop offset="0%" stop-color="#2B92D3"/>
+            <stop offset="100%" stop-color="#1F7DC2" stop-opacity=".8"/>
+        </linearGradient>
+        <rect id="k" width="160" height="90" x="119" rx="5"/>
+        <filter id="j" width="206.2%" height="288.9%" x="-53.1%" y="-72.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        </filter>
+        <rect id="m" width="157" height="90" y="194" rx="5"/>
+        <filter id="l" width="208.3%" height="288.9%" x="-54.1%" y="-72.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        </filter>
+        <rect id="o" width="160" height="90" x="638" y="11" rx="5"/>
+        <filter id="n" width="206.2%" height="288.9%" x="-53.1%" y="-72.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        </filter>
+        <rect id="q" width="160" height="90" x="668" y="183" rx="5"/>
+        <filter id="p" width="206.2%" height="288.9%" x="-53.1%" y="-72.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="25"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        </filter>
+        <path id="s" d="M289 50l49 12"/>
+        <filter id="r" width="385.7%" height="1266.7%" x="-142.9%" y="-483.3%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+            <feOffset dy="12" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="u" d="M632 137l8-37"/>
+        <filter id="t" width="1850%" height="478.4%" x="-875%" y="-156.8%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+            <feOffset dy="12" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="w" d="M631 300l33-25"/>
+        <filter id="v" width="524.2%" height="660%" x="-212.1%" y="-232%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+            <feOffset dy="12" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="y" d="M161 250l32 25"/>
+        <filter id="x" width="537.5%" height="660%" x="-218.8%" y="-232%" filterUnits="objectBoundingBox">
+            <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology in="SourceAlpha" radius="1" result="shadowInner"/>
+            <feOffset dy="12" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="21"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-34 -113)">
+        <mask id="c" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g filter="url(#b)" mask="url(#c)">
+            <g transform="translate(231 168)">
+                <mask id="g" fill="#fff">
+                    <use xlink:href="#d"/>
+                </mask>
+                <use fill="url(#e)" xlink:href="#d"/>
+                <ellipse cx="315.907" cy="253.7" fill="url(#f)" mask="url(#g)" rx="239.712" ry="238.514"/>
+                <ellipse cx="264.771" cy="202.82" fill="url(#h)" mask="url(#g)" rx="188.576" ry="187.633"/>
+                <path fill="url(#i)" fill-rule="nonzero" d="M503.248 278.44c22.18 54.393 34.897 115.156 35.647 179.31a468.906 468.906 0 0 0 31.311-19.365 4.878 4.878 0 0 1 6.766 1.31 4.86 4.86 0 0 1-1.312 6.754 478.745 478.745 0 0 1-36.755 22.442 510.18 510.18 0 0 1-1.478 34.1l-9.717-.746a499.764 499.764 0 0 0 1.367-28.093c-68.458 35.636-145.57 54.794-225.679 54.922v78.22h-9.746v-78.298c-79.126-1.4-155.118-21.379-222.477-57.44.128 8.273.458 16.515.99 24.718l-9.725.63a511.322 511.322 0 0 1-1.065-30.743 478.47 478.47 0 0 1-34.521-21.517 4.86 4.86 0 0 1-1.266-6.763 4.878 4.878 0 0 1 6.774-1.264 468.632 468.632 0 0 0 29.082 18.363c1.077-63.035 13.708-122.744 35.505-176.29-35.157-16.525-67.195-37.388-94.914-62.044l1.993-2.233L0 211.682C58.391 125.863 159.194 69.716 272.197 61.124c-30.624-10.258-62.931-15.746-96.31-15.746-18.027 0-35.882 1.599-53.464 4.76l-1.728-9.576a311.544 311.544 0 0 1 55.191-4.914c41.233 0 80.847 8.097 117.766 23.012v-74.1h9.746v75.414h.047c37.828-15.753 78.54-24.326 120.968-24.326 20.91 0 41.597 2.084 61.91 6.199l-1.939 9.535a301.7 301.7 0 0 0-59.971-6.004c-33.069 0-65.086 5.386-95.456 15.461 114.629 7.552 217.133 64.008 276.215 150.843l-8.062 5.467-.017-.026c-27.439 24.315-59.107 44.932-93.845 61.316zm-3.773-8.982c34.107-16.13 65.15-36.425 91.974-60.346-59.842-82.109-160.793-134.47-272.732-139.078 78.242 39.512 142.293 110.501 180.758 199.424zM11.587 212.08c26.198 22.765 56.251 42.132 89.13 57.627 38.37-88.845 102.271-159.814 180.354-199.414C169.946 76.406 70.2 129.596 11.587 212.08zm282.065 110.567c-67.026-.814-131.234-14.843-187.838-39.912-21.857 53.837-34.27 114.077-34.688 177.72 67.098 36.9 143.191 57.378 222.526 58.81V322.646zm0-9.73V74.986c-79.773 37.674-145.272 108.792-184.08 198.77 55.4 24.567 118.331 38.346 184.08 39.16zm9.746 9.755v196.672c80.335-.131 157.57-19.776 225.786-56.253-.087-64.71-12.577-125.954-34.796-180.594-57.447 25.531-122.785 39.697-190.99 40.175zm0-9.73c66.927-.478 130.987-14.393 187.226-39.423-39.345-91.083-106.053-162.813-187.226-200.044v239.467z" mask="url(#g)" style="mix-blend-mode:multiply"/>
+            </g>
+            <g fill="#68D75A" transform="translate(699 416)">
+                <ellipse cx="28.636" cy="29" opacity=".2" rx="28.636" ry="29"/>
+                <ellipse cx="28.182" cy="29.46" opacity=".3" rx="19.091" ry="19.333"/>
+                <ellipse cx="28.636" cy="29" rx="10.455" ry="10.587"/>
+            </g>
+            <g fill="#68D75A" transform="translate(699 255)">
+                <ellipse cx="28.636" cy="29" opacity=".2" rx="28.636" ry="29"/>
+                <ellipse cx="28.182" cy="29.46" opacity=".3" rx="19.091" ry="19.333"/>
+                <ellipse cx="28.636" cy="29" rx="10.455" ry="10.587"/>
+            </g>
+            <g fill="#68D75A" transform="translate(260 391)">
+                <ellipse cx="28.636" cy="28.741" opacity=".2" rx="28.636" ry="28.741"/>
+                <ellipse cx="28.636" cy="29.197" opacity=".3" rx="18.636" ry="19.161"/>
+                <ellipse cx="28.636" cy="28.741" rx="10.455" ry="10.493"/>
+            </g>
+            <g fill="#68D75A" transform="translate(406 178)">
+                <ellipse cx="28.636" cy="29" opacity=".2" rx="28.636" ry="29"/>
+                <ellipse cx="28.636" cy="29.46" opacity=".3" rx="18.636" ry="19.333"/>
+                <ellipse cx="28.636" cy="29" rx="10.455" ry="10.587"/>
+            </g>
+            <g transform="translate(96 143)">
+                <use fill="#000" filter="url(#j)" xlink:href="#k"/>
+                <use fill="#FFF" xlink:href="#k"/>
+            </g>
+            <g transform="translate(96 143)">
+                <use fill="#000" filter="url(#l)" xlink:href="#m"/>
+                <use fill="#FFF" xlink:href="#m"/>
+            </g>
+            <g transform="translate(96 143)">
+                <use fill="#000" filter="url(#n)" xlink:href="#o"/>
+                <use fill="#FFF" xlink:href="#o"/>
+            </g>
+            <g transform="translate(96 143)">
+                <use fill="#000" filter="url(#p)" xlink:href="#q"/>
+                <use fill="#FFF" xlink:href="#q"/>
+            </g>
+            <g stroke-dasharray="1,7" stroke-linecap="square" transform="translate(96 143)">
+                <use fill="#000" filter="url(#r)" xlink:href="#s"/>
+                <use stroke="#67D659" stroke-width="2" xlink:href="#s"/>
+            </g>
+            <g stroke-dasharray="1,7" stroke-linecap="square" transform="translate(96 143)">
+                <use fill="#000" filter="url(#t)" xlink:href="#u"/>
+                <use stroke="#67D659" stroke-width="2" xlink:href="#u"/>
+            </g>
+            <g stroke-dasharray="1,7" stroke-linecap="square" transform="translate(96 143)">
+                <use fill="#000" filter="url(#v)" xlink:href="#w"/>
+                <use stroke="#67D659" stroke-width="2" xlink:href="#w"/>
+            </g>
+            <g stroke-dasharray="1,7" stroke-linecap="square" transform="translate(96 143)">
+                <use fill="#000" filter="url(#x)" xlink:href="#y"/>
+                <use stroke="#67D659" stroke-width="2" xlink:href="#y"/>
+            </g>
+            <g fill="#846EF0">
+                <text font-family="AvenirNext-Regular, Avenir Next" font-size="14" letter-spacing=".438" transform="translate(235 159)">
+                    <tspan x=".462" y="47">unrivalled service</tspan>
+                </text>
+                <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing=".75" transform="translate(235 159)">
+                    <tspan x="19.266" y="24">+10yrs</tspan>
+                </text>
+            </g>
+            <g fill="#846EF0">
+                <text font-family="AvenirNext-Regular, Avenir Next" font-size="14" letter-spacing=".438" transform="translate(141 353)">
+                    <tspan x="1.472" y="47">support</tspan>
+                </text>
+                <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing=".75" transform="translate(141 353)">
+                    <tspan x=".372" y="24">24/7</tspan>
+                </text>
+            </g>
+            <g fill="#846EF0">
+                <text font-family="AvenirNext-Regular, Avenir Next" font-size="14" letter-spacing=".438" transform="translate(791 342)">
+                    <tspan x=".142" y="47">network uptime</tspan>
+                </text>
+                <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing=".75" transform="translate(791 342)">
+                    <tspan x="8.19" y="24">99.99%</tspan>
+                </text>
+            </g>
+            <g fill="#846EF0">
+                <text font-family="AvenirNext-Regular, Avenir Next" font-size="14" letter-spacing=".438" transform="translate(765 162)">
+                    <tspan x="2.175" y="47">conversations </tspan> <tspan x="20.974" y="67">enabled</tspan>
+                </text>
+                <text font-family="AvenirNext-DemiBold, Avenir Next" font-size="24" font-weight="500" letter-spacing=".75" transform="translate(765 162)">
+                    <tspan x="15" y="24">100M</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

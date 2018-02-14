@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2560" height="725" viewBox="0 0 2560 725">
+    <defs>
+        <linearGradient id="a" x1="50.593%" x2="31.073%" y1="116.839%" y2="4.692%">
+            <stop offset="0%" stop-color="#CE3A54"/>
+            <stop offset="100%" stop-color="#FF7A2A"/>
+        </linearGradient>
+        <linearGradient id="c" x1="12.631%" x2="86.341%" y1="74.764%" y2="27.329%">
+            <stop offset="0%" stop-color="#FC637E"/>
+            <stop offset="100%" stop-color="#FFA25E"/>
+        </linearGradient>
+        <path id="b" d="M0 0h2560v619L0 513z"/>
+        <linearGradient id="d" x1="24.897%" x2="98.219%" y1="96.931%" y2="2.299%">
+            <stop offset="0%" stop-color="#FC637E"/>
+            <stop offset="100%" stop-color="#FFA25E"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="url(#a)" d="M0 0h2560v667L0 543.481z"/>
+        <mask id="e" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <use fill="url(#c)" xlink:href="#b"/>
+        <path fill="url(#d)" d="M-3-169l893.508 49.292C943.516-116.784 985-72.948 985-19.86v194.24L91.492 125.088C38.484 122.164-3 78.328-3 25.24V-169z" mask="url(#e)" opacity=".817" style="mix-blend-mode:overlay" transform="matrix(-1 0 0 1 982 0)"/>
+        <path fill="url(#d)" d="M654-448l1811.049 91.55c53.198 2.689 94.951 46.606 94.951 99.872V159L748.951 67.45C695.753 64.762 654 20.845 654-32.421V-448z" mask="url(#e)" opacity=".103" style="mix-blend-mode:multiply"/>
+        <path fill="url(#d)" d="M265 353l996.377 63.666c52.645 3.364 93.623 47.044 93.623 99.797v275.323L358.623 728.12C305.978 724.756 265 681.076 265 628.323V353z" mask="url(#e)" opacity=".483"/>
+        <path fill="url(#d)" d="M1509 310l996.377 63.666c52.645 3.364 93.623 47.044 93.623 99.797v275.323l-996.377-63.666c-52.645-3.364-93.623-47.044-93.623-99.797V310z" mask="url(#e)" opacity=".148"/>
+        <path fill="url(#d)" d="M165 198l509.377 32.548C727.022 233.912 768 277.592 768 330.345V440.74l-509.377-32.548C205.978 404.83 165 361.15 165 308.397V198z" mask="url(#e)" opacity=".483"/>
+        <path fill="url(#d)" d="M1691 520l869 40.952V725l-773.707-36.462c-53.34-2.513-95.293-46.49-95.293-99.889V520z" style="mix-blend-mode:multiply"/>
+    </g>
+</svg>
